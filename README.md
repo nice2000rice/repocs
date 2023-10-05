@@ -8,7 +8,9 @@
 *  Local에서 Commit
 *  Remote로 Push  
  
-**를 연습하기 위해 만들어졌습니다.**
+**Collaborator를 연습하기 위해 만들어졌습니다.**
 
 20000311 PARKMINHYEOK
+
+000228 KIM HYUNMIN
 
